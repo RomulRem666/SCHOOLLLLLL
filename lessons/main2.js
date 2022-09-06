@@ -81,19 +81,73 @@
 // alert (user ?? phone ?? adres ? 'sluchayno')
 
 
-let number = prompt("Введи число")
+// let number = prompt("Введи число")
 
-switch (number){
-    case 0:
-        console.log('Ты ввел 0')
-        break
-    case 15:
-        console.log('Ты ввел 15')
-        break
-     case 26:
-        console.log('Ты ввел 26')
-        break
-    case 150:
-        console.log('Ты ввел 150')
-        break
+// switch (number){
+//     case 0:
+//         console.log('Ты ввел 0')
+//         break
+//     case 15:
+//         console.log('Ты ввел 15')
+//         break
+//      case 26:
+//         console.log('Ты ввел 26')
+//         break
+//     case 150:
+//         console.log('Ты ввел 150')
+//         break
+// }
+
+// let fun1 =document.querySelector('.btn-1')
+// function one(){
+//     console.log('Hello')
+//     return 666
+// }
+// one()
+// fun1.onclick = one
+
+// let a = 9
+// let b = 9
+// function multi(){
+//     console.log(a*b)
+//     return a*b
+// }
+// let c =multi()
+// console.log(c*55)
+
+// fun1.onclick = function() {
+//     console.log('anonim')
+// }
+// fun1.onclick = () =>{
+//     console.log('anonim strelka')
+// }
+
+
+// let a = 17
+
+// let fun1 =document.querySelector('.expert')
+//  function hv(a){
+//  console.log(a)
+//     return a
+// }
+
+function plus(){
+    console.log(a+b)
+    return a+b
 }
+plus()
+function minus(){
+    console.log(a-b)
+    return a-b
+}
+minus()
+function multi(){
+    console.log(a*b)
+    return a*b
+}
+multi()
+function del(){
+    console.log(a/b)
+    return a/b
+}
+del()
