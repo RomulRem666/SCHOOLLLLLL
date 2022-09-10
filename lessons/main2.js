@@ -130,26 +130,26 @@
 //  console.log(a)
 //     return a
 // }
-let a=5
-let b = 4
+// let a=5
+// let b = 4
 
-function plus(){
-    console.log(a+b)
-    return a+b
-}
-plus()
-function minus(){
-    console.log(a-b)
-    return a-b
-}
-minus()
-function multi(){
-    console.log(a*b)
-    return a*b
-}
-multi()
-function del(){
-    console.log(a/b)
-    return a/b
-}
-del()
+// function plus(){
+//     console.log(a+b)
+//     return a+b
+// }
+// plus()
+// function minus(){
+//     console.log(a-b)
+//     return a-b
+// }
+// minus()
+// function multi(){
+//     console.log(a*b)
+//     return a*b
+// }
+// multi()
+// function del(){
+//     console.log(a/b)
+//     return a/b
+// }
+// del()
