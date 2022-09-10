@@ -130,6 +130,8 @@
 //  console.log(a)
 //     return a
 // }
+let a=5
+let b = 4
 
 function plus(){
     console.log(a+b)
