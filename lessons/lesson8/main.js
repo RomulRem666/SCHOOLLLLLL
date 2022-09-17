@@ -31,28 +31,28 @@
 //     }
 // }
 
-const button = document.querySelector('input')
-let shirina= 5
-let visota= 6
+// const button = document.querySelector('input')
+// let shirina= 5
+// let visota= 6
 
-let element = document.querySelectorAll('.element')
-for (let i=0; i<=element.length; i++){
-    element[i].onclick = function(){
-        let shirina= document.querySelector('.shirina')
-        let visota = document.querySelector('.visota')
-        console.log([shirina,visota])
-    }
-}
-let atrib = 6
-let monopol= 8
-let extra = 9
-let part= document.querySelector('button')
-for (let i=0; i<=part.length; i++){
-    part[i].onclick = function(){
-        console.log([atrib, monopol, extra])
-    }
-}
-button.classList.remove('atrib')
+// let element = document.querySelectorAll('.element')
+// for (let i=0; i<=element.length; i++){
+//     element[i].onclick = function(){
+//         let shirina= document.querySelector('.shirina')
+//         let visota = document.querySelector('.visota')
+//         console.log([shirina,visota])
+//     }
+// }
+// let atrib = 6
+// let monopol= 8
+// let extra = 9
+// let part= document.querySelector('button')
+// for (let i=0; i<=part.length; i++){
+//     part[i].onclick = function(){
+//         console.log([atrib, monopol, extra])
+//     }
+// }
+// button.classList.remove('atrib')
 // let a= 'cool'
 // let b = 'well'
 // let c = 4
